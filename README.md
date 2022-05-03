@@ -1,3 +1,3 @@
-# JEE CRUD APP
+## JEE CRUD APP
 
-![Alt text](/img.jpg "image crud app")
+<p align="center"><img src="./img.PNG" width="400"></p>
